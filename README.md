@@ -1,5 +1,7 @@
 ![👋 Hi, my name is Radip Shrestha](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
+![Profile views](https://komarev.com/ghpvc/?username=Radip97&label=Profile%20views&color=0e75b6&style=flat)
+
 <div id="toc">
   <ul align="center" style="list-style: none">
     <summary>
@@ -11,7 +13,7 @@
 </div>
 
 **<h3 align="left">Connect with me:</h3>** 
-<p align="left"><a href="https://github.com/sushilmagare10" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/sushil-magare" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/Sushil__SM" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?logo=X&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+<p align="left"><a href="https://github.com/Radip97" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/Radip Shrestha" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
  **<h3 align="left"> I'm passionate about coding, technology, and problem-solving, with a strong focus on Python. I enjoy working with databases like MySQL, MongoDB, and PostgreSQL, and exploring areas such as AI, cloud computing, and machine learning. I'm always eager to learn, experiment, and collaborate on exciting projects. Check out my repositories to see what I'm working on, and let's connect on LinkedIn or GitHub!</h3>**
 
@@ -33,19 +35,3 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Radip97&theme=default&cache_seconds=1800&border_radius=4&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&line_height=25" alt="GitHub stats Card" />
 </p>
 
-
-
-<!--
-**Radip97/Radip97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
