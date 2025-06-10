@@ -13,7 +13,7 @@
 </div>
 
 **<h3 align="left">Connect with me:</h3>** 
-<p align="left"><a href="https://github.com/Radip97" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/Radip Shrestha" target="_blank"><img src="https://www.linkedin.com/in/radip-shrestha-86147a202/" height="28" style="margin-right: 4px"></a></p>
+<p align="left"><a href="https://github.com/Radip97" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/radip-shrestha-86147a202/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
  **<h3 align="left"> I'm passionate about coding, technology, and problem-solving, with a strong focus on Python. I enjoy working with databases like MySQL, MongoDB, and PostgreSQL, and exploring areas such as AI, cloud computing, and machine learning. I'm always eager to learn, experiment, and collaborate on exciting projects. Check out my repositories to see what I'm working on, and let's connect on LinkedIn or GitHub!</h3>**
 
